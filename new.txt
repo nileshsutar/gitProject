@@ -1,3 +1,12 @@
 this is test
+
 conflict file test
 my test 
+
+
+my new change
+
+
+conflict file test
+
+
