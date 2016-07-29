@@ -1,3 +1,7 @@
 this is test
+<<<<<<< HEAD
 my new change
 
+=======
+conflict file test
+>>>>>>> 41a9a335f7248af0fbf40673fdfe15a9ab260bcb
